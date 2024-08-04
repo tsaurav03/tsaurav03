@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsaurav03&label=Profile%20views&color=0e75b6&style=flat" alt="tsaurav03" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsaurav03" alt="tsaurav03" /></a> </p>
-
 - 🔭 I’m currently working on **CDAC project - a municipal corporation management system, aims to streamline the process of lodging and resolving municipal complaints. Citizens can register, log in, and submit complaints about issues like road repairs, garbage collection, and water crises. They can track the progress of their complaints and provide feedback once resolved. Administrators can manage complaints, assign them to relevant teams, and update their statuses to ensure efficient resolution.**
 
 - 🌱 I’m currently learning **Java, Spring, React**
@@ -20,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsaurav03&show_icons=true&locale=en&layout=compact" alt="tsaurav03" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tsaurav03&show_icons=true&locale=en" alt="tsaurav03" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tsaurav03&" alt="tsaurav03" /></p>
