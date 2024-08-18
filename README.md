@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsaurav03&label=Profile%20views&color=0e75b6&style=flat" alt="tsaurav03" /> </p>
 
-- 🔭 I’m currently worked on **CDAC project - a municipal corporation management system, aims to streamline the process of lodging and resolving municipal complaints. Citizens can register, log in, and submit complaints about issues like road repairs, garbage collection, and water crises. They can track the progress of their complaints and provide feedback once resolved. Administrators can manage complaints, assign them to relevant teams, and update their statuses to ensure efficient resolution.**
+- 🔭 I currently worked on **CDAC project - a municipal corporation management system, aims to streamline the process of lodging and resolving municipal complaints. Citizens can register, log in, and submit complaints about issues like road repairs, garbage collection, and water crises. They can track the progress of their complaints and provide feedback once resolved. Administrators can manage complaints, assign them to relevant teams, and update their statuses to ensure efficient resolution.**
 
 - 🌱 I’m currently learning **Java, Spring, React**
 
